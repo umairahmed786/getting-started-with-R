@@ -36,3 +36,8 @@ To run the scripts or notebooks, follow these steps:
 3. Navigate to the scripts/ or notebooks/ directory and open the desired file.
 4. Run the code chunks interactively in RStudio.
 
+## Contact
+
+If you have any questions or need further assistance, please contact:
+
+- Umair Ahmed: umairahmedpaki7@gmail.com
