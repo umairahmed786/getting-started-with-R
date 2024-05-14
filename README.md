@@ -30,7 +30,7 @@ To run the scripts or notebooks, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-username/Introduction-to-R-Programming](https://github.com/umairahmed786/getting-started-with-R.git)
+   git clone https://github.com/umairahmed786/getting-started-with-R.git
 
 2. Open RStudio and load the project.
 3. Navigate to the scripts/ or notebooks/ directory and open the desired file.
